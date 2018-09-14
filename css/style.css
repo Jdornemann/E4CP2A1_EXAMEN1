@@ -1,6 +1,45 @@
 
-.nav-marginx
+.jumbotron
 {
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-bottom: 0;
+    text-align: center;
+    background-image: url("../img/footer.png");
+ 
+}
+
+.img-carusel{
+
+   
+    width: 800px;
+    height: 400px;
+
+
+}
+
+.container-size-middle{
+    
+
+    margin-top: 5%;
+}
+
+.p-content-images{
+
+    display: inline-table;
+
+}
+.img-middle{
+
+    height: 18vw ;
+    width: 18vw ;
+}
+ footer{
+    background-color: #75a3a3;
+    padding-top: 2%;
+    padding-bottom: 2%;
+} 
+
+.footer-contact{
+
+    color:white;
+    margin-left: 2%;
 }

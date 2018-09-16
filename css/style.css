@@ -10,7 +10,10 @@ width: 100%;
 height: 100%;
 }
 
+.centred{
 
+    margin: 0 auto; width: 70%;
+}
 .logo{
 
 
@@ -22,11 +25,10 @@ height: 100%;
 .nav-config {
 
     z-index: 10;
-    margin: 0 auto; width: 71.5%;
+    margin: 0 auto; width: 70%;
     position: fixed;
 
-    padding-left: 0px;
-    padding-right: 0px;
+   
     font-size: 2vh;
   /*  height: 17vh; */
 }
@@ -42,23 +44,23 @@ height: 100%;
 .img-carusel{
 
    
-    width: 800px;
-    height: 400px;
+    width: 400vh;
+    height: 50vh;
 
 
 }
 
 .container-size-middle{
     
-    margin-top: 2%;
+    margin-top: 5vh;
 }
 .container-size-top{
-    margin-top: 10%;
+    margin-top: 15vh;
     padding-left: 0px;
     padding-right: 0px;
 }
 .container-size-top_mi{
-    margin-top: 2%;
+    margin-top: 5vh;
     padding-left: 0px;
     padding-right: 0px;
 }
@@ -80,15 +82,12 @@ height: 100%;
     color:white;
     margin-left: 2%;
 }
-.centred{
 
-    margin: 0 auto; width: 70%;
-}
 footer {
     background-color: #75a3a3;
     padding-top: 2%;
     padding-bottom: 2%;
-
+  
    
     
   }
@@ -105,15 +104,22 @@ footer {
   .footer a:hover {
     color: white;
   }
+  iframe{
+    width: 35vh;
+     height: 30vh;
+     border:0;
+  }
 
   /* NOSOTROS */
 
   .content-first{
-    margin-top: 10%;
-    padding-top: 2%;
+    margin-top: 15vh;
+    padding-top: 2VH;
     background-color: white;
-    height: 100vh;
-   margin-bottom: 2%;
+    margin-bottom: 2vh;
+    font-size: 2vh;
+    margin-right: 0px; 
+     margin-left: 0px
 
   }
   .menu-left{
@@ -122,16 +128,21 @@ footer {
     padding-right: 0px;
 }
 
-
+ /* NOTICIAS */
   
 .card-position
 {
 
-    margin-top: 10%;
+    margin-top: 10vh;;
+    margin-bottom: 10vh;
 
 
 }
-.card-pad-pos{
+.content-first-news{
 
-    padding-top: 10%;
+    margin-top: 10vh;
+    margin-bottom: 2vh;
 }
+  
+
+    

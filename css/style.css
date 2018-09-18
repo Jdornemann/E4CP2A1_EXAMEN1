@@ -25,9 +25,10 @@ height: 100%;
 .nav-config {
 
     z-index: 10;
-    margin: 0 auto; width: 70%;
+    margin: 0 auto; width: 100%;
     position: fixed;
-
+    left: 0;
+    top: 0;
    
     font-size: 2vh;
   /*  height: 17vh; */
